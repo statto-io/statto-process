@@ -1,0 +1,34 @@
+{
+  "name": "statto-process",
+  "description": "Processes a set of raw statto data.",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "clone": "^1.0.2"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  },
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tynio/statto-process.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tynio/statto-process/issues",
+    "email": "chilts@tyn.io"
+  },
+  "author": {
+    "name": "Andrew Chilton",
+    "email": "chilts@tyn.io",
+    "url": "https://tyn.io/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "statto",
+    "stats",
+    "statsd"
+  ]
+}
