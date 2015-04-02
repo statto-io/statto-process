@@ -63,7 +63,6 @@ function process(stats) {
 
     // see how many keys this set has
     var keys = Object.keys(stats.sets[set])
-    console.log('keys:', keys)
 
     // get the uniques
     info.unique = keys.length
