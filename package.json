@@ -1,7 +1,7 @@
 {
   "name": "statto-process",
   "description": "Processes a set of raw statto data.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "index.js",
   "scripts": {
     "test": "tape test.js"
